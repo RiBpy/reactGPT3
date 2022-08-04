@@ -1,0 +1,9 @@
+:root{
+    --font-family:'Manrope',sans-serif;
+    --color-bg:#040c18;
+    --color-footer:#031B34;
+    --color-text:#05d3ee;
+    --color-subtext:#d15b40;
+    --gradient-text:linear-gradient(#f200d6,#05d3ee);
+    --gradient-bar:linear-gradient(90deg,#05d3ee,#d15b40);
+}
